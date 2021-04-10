@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/megaport/static/css/main.758234aa.chunk.css",
+    "main.js": "/megaport/static/js/main.da515b52.chunk.js",
+    "main.js.map": "/megaport/static/js/main.da515b52.chunk.js.map",
+    "runtime-main.js": "/megaport/static/js/runtime-main.d4eb83cb.js",
+    "runtime-main.js.map": "/megaport/static/js/runtime-main.d4eb83cb.js.map",
+    "static/js/2.1e5dfc6d.chunk.js": "/megaport/static/js/2.1e5dfc6d.chunk.js",
+    "static/js/2.1e5dfc6d.chunk.js.map": "/megaport/static/js/2.1e5dfc6d.chunk.js.map",
+    "static/js/3.b7584120.chunk.js": "/megaport/static/js/3.b7584120.chunk.js",
+    "static/js/3.b7584120.chunk.js.map": "/megaport/static/js/3.b7584120.chunk.js.map",
+    "index.html": "/megaport/index.html",
+    "static/css/main.758234aa.chunk.css.map": "/megaport/static/css/main.758234aa.chunk.css.map",
+    "static/js/2.1e5dfc6d.chunk.js.LICENSE.txt": "/megaport/static/js/2.1e5dfc6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4eb83cb.js",
+    "static/js/2.1e5dfc6d.chunk.js",
+    "static/css/main.758234aa.chunk.css",
+    "static/js/main.da515b52.chunk.js"
+  ]
+}
